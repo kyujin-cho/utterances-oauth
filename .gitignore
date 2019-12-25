@@ -1,4 +1,5 @@
 node_modules
+src/app-settings.ts
 dist
 .env
 .rpt2_cache
